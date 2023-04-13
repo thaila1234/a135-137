@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+}
+
+.copyrightFooter{
+    bottom: 0;
+    position: fixed;
+    background-color: rgb(184, 187, 190);
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+    color: rgb(0, 0, 0);
+}
+
+canvas{
+    margin: 20px;
+}
